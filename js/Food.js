@@ -1,0 +1,1 @@
+milkImg = loadImage("images/Milk.png");
